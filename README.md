@@ -75,29 +75,29 @@
 > * 중간 상태가 더 존재할수록 그것들을 나누기가 더 어려워졌다.
 
 > ### 단위
-단위|정의
-:---|---:
-Bit| 0 or 1 
-Byte| 8bit 
-KB| 1024Byte
-MB| 1024KB
-GB| 1024MB 
-TB| 1024GB
+> 단위|정의
+> :---|---:
+> Bit| 0 or 1 
+> Byte| 8bit 
+> KB| 1024Byte
+> MB| 1024KB
+> GB| 1024MB 
+> TB| 1024GB
 
 > ### 부동소수점
+
 > ### 컴퓨터의 문자 표기 방법
-- ASCII
-- UNICODE
+> * ASCII
+> * UNICODE
 
 ***
 
-> ### 생각해볼 것들
+> ### 추가로 생각해볼 것들
 > * 계속해서 더 좋은 연산력을 가진 장치들이 개발되면 어떤 생각을 하면서 살아야 할까?
 > * 전쟁의 Light Side/Dark Side
 >   * 파괴
 >   * 창조
-
-> ### 양자 컴퓨터
-> * 관련 기업
->   * 아이온큐
->     * [가을바람월드](https://www.youtube.com/@shawnkwon)
+> * 양자 컴퓨터
+>   * 관련 기업
+>     * 아이온큐
+>       * [가을바람월드](https://www.youtube.com/@shawnkwon)
